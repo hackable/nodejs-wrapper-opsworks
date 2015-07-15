@@ -1,6 +1,6 @@
 
-# Override the version to 0.12
-default['nodejs']['version'] = '0.12.0'
+# Override the version to 0.12.7
+default['nodejs']['version'] = '0.12.7'
 
 # Override the repo
 case node['platform_family']
